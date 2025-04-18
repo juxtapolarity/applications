@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Zen Browser
+# Exec=/home/jux/.local/bin/zen-x86_64.AppImage
+Exec=appimage-run /home/jux/.local/share/appimages/zen-x86_64.AppImage
+Icon=web-browser
+Type=Application
+Categories=Network;WebBrowser;
+X-GNOME-Autostart-enabled=true
